@@ -1,0 +1,8 @@
+File from: [./images/1586961096483._cake-2.png]
+
+File to: [./compressed-images1586961096483._cake-2.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/denisinengite/Desktop/javascript practice/node_modules/pngquant-bin/vendor/pngquant --quality=20-90 -o ./compressed-images1586961096483._cake-2.png ./images/1586961096483._cake-2.png
+  error: cannot decode image 1586961096483._cake-2.png
